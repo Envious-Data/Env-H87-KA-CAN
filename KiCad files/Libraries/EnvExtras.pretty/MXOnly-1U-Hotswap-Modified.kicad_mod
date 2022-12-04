@@ -10,18 +10,6 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d0908af2-7402-4a7b-81ca-bcf9c45f8b44)
   )
-  (fp_poly (pts
-      (xy 2.54 -6.65)
-      (xy 7.09 -6.36)
-      (xy 7.09 -3.86)
-      (xy 2.54 -3.55)
-    ) (layer "B.Cu") (width 0.1) (fill solid) (tstamp 63eb113d-72cf-4edf-bc73-b9b4b75323f7))
-  (fp_poly (pts
-      (xy -3.81 -1)
-      (xy -8.36 -1.29)
-      (xy -8.36 -3.79)
-      (xy -3.81 -4.1)
-    ) (layer "B.Cu") (width 0.1) (fill solid) (tstamp e8795dfb-7cc2-4438-a3db-8ee41718606c))
   (fp_line (start 7 -7) (end 7 -5) (layer "Dwgs.User") (width 0.15) (tstamp 0c8c4657-d800-40f7-8c80-1f5c05c3504a))
   (fp_line (start -5 -7) (end -7 -7) (layer "Dwgs.User") (width 0.15) (tstamp 16d45733-181d-4e84-890c-996ba99a2a5b))
   (fp_line (start 7 7) (end 7 5) (layer "Dwgs.User") (width 0.15) (tstamp 196a9e4e-3e92-4949-b078-98d411c5779e))
