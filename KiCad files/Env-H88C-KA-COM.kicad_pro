@@ -421,7 +421,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "Env-H88C-KA-COM.dsn",
       "step": "../../../../../Downloads/UniversalTKL.step",
       "vrml": ""
     },
