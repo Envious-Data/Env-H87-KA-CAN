@@ -31,4 +31,9 @@
   (pad "1" smd rect (at -5.61 -2.54) (size 5.5 2.5) (layers "B.Cu") (tstamp f8cf5e51-1a20-4a08-b82a-66d3efe9d86c))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 3.25 3.25) (drill 3) (layers *.Cu *.Mask) (tstamp b5a295e3-812f-4434-9e6c-9d6174241819))
   (pad "2" smd rect (at 4.34 -5.08) (size 5.5 2.5) (layers "B.Cu") (tstamp e7af7823-557e-4c53-ae90-586488c32c69))
+  (model "${KIPRJMOD}/Libraries/3d-models/SW_Hotswap_Kailh.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

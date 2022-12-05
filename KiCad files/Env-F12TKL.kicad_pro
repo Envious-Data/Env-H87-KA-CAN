@@ -370,7 +370,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Env-H88C-KA-COM.kicad_pro",
+    "filename": "Env-F12TKL.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -422,7 +422,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "Env-H88C-KA-COM.dsn",
-      "step": "../../../../../Downloads/UniversalTKL.step",
+      "step": "../../../../Downloads/EnvOpenF12TKL.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
