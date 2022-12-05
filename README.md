@@ -1,4 +1,4 @@
-# Env-H88-KA-COM
+# Env-H87-KA-CAN
 Originally meant to be a keyboard for a comission I decided to re-work to a F12 TKL
 
 ## Main features
