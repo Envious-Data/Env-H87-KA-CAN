@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "EnvExtras")(type "KiCad")(uri "${KIPRJMOD}/Libraries/EnvExtras.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RP2040_minimal.pretty")(options "")(descr ""))
+)

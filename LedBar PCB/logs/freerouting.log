@@ -1,0 +1,159 @@
+2022-12-07 21:42:48.019 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-07 21:42:48.031 [main] INFO  Opening 'C:/Users/Envy/Documents/GitHub/Env-H88-KA-COM/LedBar PCB\freerouting.dsn'...
+2022-12-07 21:42:48.922 [main] INFO  Opening 'freerouting.rules'...
+2022-12-07 21:42:48.923 [main] ERROR File 'freerouting.rules' was not found.
+2022-12-07 21:42:48.983 [Thread-0] INFO  Starting auto-routing...
+2022-12-07 21:42:48.984 [main] TRACE Method 'MainApplication.main()' was performed in 1.03 seconds.
+2022-12-07 21:43:13.654 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board 'b5a482a85512e0a793ddd06c4d6db1cb' making 866 changes' was performed in 24.53 seconds.
+2022-12-07 21:43:27.160 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board '20502d7adcc7c2b634cac74c6e331742' making 461 changes' was performed in 13.47 seconds.
+2022-12-07 21:43:35.909 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board '5136d4d6aecd59db896ce012ad08cd8f' making 248 changes' was performed in 8.73 seconds.
+2022-12-07 21:43:43.124 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board '75708861bb4da11dd4193db69bd26095' making 175 changes' was performed in 7.19 seconds.
+2022-12-07 21:43:48.777 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #5 on board 'bb2fc78cc611cbb8f7d590ea7e3ca92a' making 108 changes' was performed in 5.63 seconds.
+2022-12-07 21:43:54.092 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #6 on board '3958ca5e6268c1d3bc736c5e19654fcf' making 79 changes' was performed in 5.29 seconds.
+2022-12-07 21:43:56.628 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #7 on board 'd25e1697c3e9a14bf9bc1ee00663c9f6' making 31 changes' was performed in 2.52 seconds.
+2022-12-07 21:43:58.192 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #8 on board 'd90bfbd4cc2c1616ed0915cc3499a478' making 37 changes' was performed in 1.54 seconds.
+2022-12-07 21:43:58.232 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #9 on board 'fe9eada40f7cba0f8aedc989c1b2256a' making 0 changes' was performed in 0.02 seconds.
+2022-12-07 21:43:58.233 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 1 minute(s) 9.25 seconds.
+2022-12-07 21:43:58.233 [Thread-0] INFO  Auto-routing was completed in 1 minute(s) 9.25 seconds.
+2022-12-07 21:43:58.234 [Thread-0] INFO  Starting route optimization on 11 threads...
+2022-12-07 21:45:19.162 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 372 vias and 1,874,283.86 trace length running on 11 threads.' was performed in 1 minute(s) 20.92 seconds.
+2022-12-07 21:45:19.163 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 1 minute(s) 20.93 seconds.
+2022-12-07 21:45:19.164 [Thread-0] INFO  Route optimization was completed in 1 minute(s) 20.93 seconds and it improved the design by ~0.71%.
+2022-12-07 21:45:19.184 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 2 minute(s) 30.20 seconds.
+2022-12-07 21:45:19.184 [Thread-0] INFO  Saving 'C:/Users/Envy/Documents/GitHub/Env-H88-KA-COM/LedBar PCB\freerouting.ses'...
+2022-12-07 21:47:38.684 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-07 21:47:38.696 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.dsn'...
+2022-12-07 21:47:39.624 [main] INFO  Opening 'freerouting.rules'...
+2022-12-07 21:47:39.624 [main] ERROR File 'freerouting.rules' was not found.
+2022-12-07 21:47:39.694 [Thread-0] INFO  Starting auto-routing...
+2022-12-07 21:47:39.694 [main] TRACE Method 'MainApplication.main()' was performed in 1.07 seconds.
+2022-12-07 21:48:24.251 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board 'd631d8959bd5746f511445221de5d94c' making 995 changes' was performed in 44.42 seconds.
+2022-12-07 21:48:34.345 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board 'e332f950b1a3b35321c8ca727accbac5' making 107 changes' was performed in 10.06 seconds.
+2022-12-07 21:48:36.779 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board '43813fa0a75d07f051238e7450bcd7fa' making 36 changes' was performed in 2.41 seconds.
+2022-12-07 21:48:37.727 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board '9a6da5d36afcf70ddc5cf6161993be7a' making 12 changes' was performed in 0.92 seconds.
+2022-12-07 21:48:37.855 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #5 on board '86e4dba10fd160120a7bb24ec98b4ed3' making 5 changes' was performed in 0.10 seconds.
+2022-12-07 21:48:37.891 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #6 on board '3fef214f29fd605cb6d2e4c5a8933d88' making 0 changes' was performed in 0.02 seconds.
+2022-12-07 21:48:37.892 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 58.20 seconds.
+2022-12-07 21:48:37.893 [Thread-0] INFO  Auto-routing was completed in 58.20 seconds.
+2022-12-07 21:48:37.894 [Thread-0] INFO  Starting route optimization on 11 threads...
+2022-12-07 21:49:22.531 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 482 vias and 1,176,151.31 trace length running on 11 threads.' was performed in 44.63 seconds.
+2022-12-07 21:49:22.532 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 44.64 seconds.
+2022-12-07 21:49:22.533 [Thread-0] INFO  Route optimization was completed in 44.64 seconds and it improved the design by ~0.92%.
+2022-12-07 21:49:22.550 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 1 minute(s) 42.86 seconds.
+2022-12-07 21:49:22.551 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.ses'...
+2022-12-07 21:50:34.620 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-07 21:50:34.632 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.dsn'...
+2022-12-07 21:50:35.506 [main] INFO  Opening 'freerouting.rules'...
+2022-12-07 21:50:35.507 [main] ERROR File 'freerouting.rules' was not found.
+2022-12-07 21:50:35.575 [Thread-0] INFO  Starting auto-routing...
+2022-12-07 21:50:35.575 [main] TRACE Method 'MainApplication.main()' was performed in 1.03 seconds.
+2022-12-07 21:51:16.546 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board 'a93e6504f1b0795f739842499c4e0748' making 961 changes' was performed in 40.83 seconds.
+2022-12-07 21:51:26.350 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board '93f2f28858e42ac3ac217bb4574bc35a' making 134 changes' was performed in 9.76 seconds.
+2022-12-07 21:51:29.024 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #3 on board '85138c30f286a16b1d60b14710639652' making 100 changes' was performed in 2.65 seconds.
+2022-12-07 21:51:33.857 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #4 on board '5eecd1a163c7538c59fa30fc239ab364' making 84 changes' was performed in 4.81 seconds.
+2022-12-07 21:51:35.198 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #5 on board '49c12eace92df6699d77a89d731839a5' making 70 changes' was performed in 1.32 seconds.
+2022-12-07 21:51:38.145 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #6 on board 'b86142605244022e29df3d70d469b678' making 58 changes' was performed in 2.93 seconds.
+2022-12-07 21:51:38.720 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #7 on board '62a40e5296c1c284469ae26af0a3fc76' making 33 changes' was performed in 0.56 seconds.
+2022-12-07 21:51:40.402 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #8 on board '76d873b29dfcf425a2a6f37cf58b4e7e' making 12 changes' was performed in 1.66 seconds.
+2022-12-07 21:51:40.647 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #9 on board 'ecb8203cb20e251019ff483da82acc1b' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:40.900 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #10 on board '0d900fc6eaf38ef0293a5ddc436cc0f2' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:41.160 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #11 on board '5449382b6a7d46b04384494aa97c3c62' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:41.420 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #12 on board 'a1124a162b39530fd5c3e8783fbb9748' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:41.680 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #13 on board 'aff3670335e0ffaea5dbf352898d9a0f' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:41.934 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #14 on board '6b4e61d7f2ad12bd6fffb52a06e3505d' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:42.185 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #15 on board '1041e6a20726fc300a9fcef9447520d6' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:42.436 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #16 on board 'b240db24b0e62260cd6c9ac2dacafb7a' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:42.673 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #17 on board '3f48101a1645024deb67082107d4f8c9' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:42.919 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #18 on board '681e9d277cba0e505938016d25772821' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:43.158 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #19 on board '835808b79460ed85a701a843807ac154' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:43.409 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #20 on board '4ad13ab0f872883252155d2d52c17bee' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:43.666 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #21 on board '1521ad3ad5ebe024bb8cf74342e99498' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:43.928 [Thread-0] WARN  There were only 19.25 changes in the last 20 passes, so it's very likely that autorouter can't improve the result much further. It is recommended to stop it and finish the board manually.
+2022-12-07 21:51:43.929 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #22 on board '5b4b142b1719bc42a87451f85c713fa7' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:44.184 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #23 on board 'a9cf7ef36c4aaf86b3e25fdb75645fea' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:44.440 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #24 on board '9a5a269caacede36ebd9b97e9a0db692' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:44.692 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #25 on board '1dafccd638e873662129147f23c8a016' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:44.939 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #26 on board '79797449f033d20f66b326658da02c73' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:45.178 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #27 on board 'c477cd1439753f06bcbd73eb4e64c30c' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:45.419 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #28 on board 'c938af70a18275dbbf576ebe7013405e' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:45.654 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #29 on board 'd5d016af3be4eab35cbc1dcd1b134427' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:45.902 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #30 on board '7797c4ae88f4710e0e5bbe37c04929a3' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:46.165 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #31 on board '5566687bcb7c315aee8abb18dbf7d764' making 2 changes' was performed in 0.25 seconds.
+2022-12-07 21:51:46.432 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #32 on board '59c46c4981b2aa0d11a04b8a3c2491eb' making 2 changes' was performed in 0.25 seconds.
+2022-12-07 21:51:46.682 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #33 on board '6db39f934f93e19858b776e5d29d33a6' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:46.933 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #34 on board '9f13f9866da8a32faa667a14c8520475' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:47.178 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #35 on board '416556fea45a26313d04afa2244610d3' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:47.420 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #36 on board '3d4e3a520b9fb7770dcf6783a70bb67e' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:47.660 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #37 on board 'edd411842f4ca4e0626da4f697e7a3cb' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:47.898 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #38 on board '253bdf681ef2924bb7829c91c1891897' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:48.132 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #39 on board '2cfcdd024d8d06b057608acd7016895e' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:48.389 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #40 on board 'c9ca0538c1ac890c828a4f7abdd4b4d5' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:48.647 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #41 on board '6539b23715ba3714e061b85f607d623b' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:48.901 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #42 on board 'a50b62d20555ad1fcc6d441e8435545a' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:49.154 [Thread-0] WARN  There were only 8.18 changes in the last 40 passes, so it's very likely that autorouter can't improve the result much further. It is recommended to stop it and finish the board manually.
+2022-12-07 21:51:49.154 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #43 on board '60837ab1364a5e6d96fe142797725cd8' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:49.410 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #44 on board '435cf62a2ae59403501f3265f28a5485' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:49.662 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #45 on board '1f24697398f5b77113c4cab9e78b6c4b' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:49.908 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #46 on board '9b16f4fbf1195bacdcc35f7bcead70dd' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:50.144 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #47 on board 'f651c25fd1e860172cca7dc2161442c8' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:50.377 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #48 on board 'fae05f4e5d0aa2e2a0b97603f72b903d' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:50.618 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #49 on board 'aff59073cbab6c78f9620e468a1e5971' making 2 changes' was performed in 0.22 seconds.
+2022-12-07 21:51:50.867 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #50 on board 'f09cabf9e128f44d22157f41c02bee7e' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:51.119 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #51 on board '07fb90e97ab8fc82b477b0de9fb26c88' making 2 changes' was performed in 0.23 seconds.
+2022-12-07 21:51:51.382 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #52 on board '8aa72e3827dc7bab3c189bd4cca5bf3a' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:51.642 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #53 on board '78e55e4a759e7ee5dec11de0d3695e65' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:51.901 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #54 on board '1fa1da5500f5955cf30c4990d50b3525' making 2 changes' was performed in 0.24 seconds.
+2022-12-07 21:51:53.219 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #55 on board '2b0e771130a1d7b3ab28377e0327a8a7' making 9 changes' was performed in 1.30 seconds.
+2022-12-07 21:51:54.249 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #56 on board '0ee444ce7a309e93483d62ac52338cf5' making 4 changes' was performed in 1.01 seconds.
+2022-12-07 21:51:54.282 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #57 on board '3b8508e1f8c25e7e4c15cbcea3ad30af' making 0 changes' was performed in 0.02 seconds.
+2022-12-07 21:51:54.282 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 1 minute(s) 18.71 seconds.
+2022-12-07 21:51:54.283 [Thread-0] INFO  Auto-routing was completed in 1 minute(s) 18.71 seconds.
+2022-12-07 21:51:54.283 [Thread-0] INFO  Starting route optimization on 11 threads...
+2022-12-07 21:53:33.476 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 475 vias and 1,201,274.36 trace length running on 11 threads.' was performed in 1 minute(s) 39.19 seconds.
+2022-12-07 21:54:55.523 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 520 items, 475 vias and 1,117,191.57 trace length running on 11 threads.' was performed in 1 minute(s) 22.05 seconds.
+2022-12-07 21:56:27.487 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 512 items, 327 vias and 961,505.24 trace length running on 11 threads.' was performed in 1 minute(s) 31.96 seconds.
+2022-12-07 21:57:51.091 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 449 items, 324 vias and 957,492.80 trace length running on 11 threads.' was performed in 1 minute(s) 23.60 seconds.
+2022-12-07 21:59:31.893 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #5 with 451 items, 281 vias and 929,224.00 trace length running on 11 threads.' was performed in 1 minute(s) 40.80 seconds.
+2022-12-07 22:01:14.377 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #6 with 450 items, 274 vias and 965,824.31 trace length running on 11 threads.' was performed in 1 minute(s) 42.48 seconds.
+2022-12-07 22:02:34.309 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #7 with 437 items, 248 vias and 922,302.20 trace length running on 11 threads.' was performed in 1 minute(s) 19.93 seconds.
+2022-12-07 22:02:34.310 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 10 minute(s) 40.02 seconds.
+2022-12-07 22:02:34.311 [Thread-0] INFO  Route optimization was completed in 10 minute(s) 40.02 seconds and it improved the design by ~61.29%.
+2022-12-07 22:02:34.365 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 11 minute(s) 58.79 seconds.
+2022-12-07 22:02:34.366 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.ses'...
+2022-12-07 22:18:26.385 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-07 22:18:26.396 [main] INFO  Opening 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.dsn'...
+2022-12-07 22:18:27.332 [main] INFO  Opening 'freerouting.rules'...
+2022-12-07 22:18:27.333 [main] ERROR File 'freerouting.rules' was not found.
+2022-12-07 22:18:27.364 [Thread-0] INFO  Starting auto-routing...
+2022-12-07 22:18:27.364 [main] TRACE Method 'MainApplication.main()' was performed in 1.04 seconds.
+2022-12-07 22:18:28.862 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board '527c5e0ad82a930938abf26f650233fd' making 284 changes' was performed in 1.38 seconds.
+2022-12-07 22:18:28.896 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board '09f13f08b294a89692cff54fca12302b' making 0 changes' was performed in 0.01 seconds.
+2022-12-07 22:18:28.897 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 1.53 seconds.
+2022-12-07 22:18:28.898 [Thread-0] INFO  Auto-routing was completed in 1.53 seconds.
+2022-12-07 22:18:28.898 [Thread-0] INFO  Starting route optimization on 11 threads...
+2022-12-07 22:18:30.339 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 6 vias and 684,015.99 trace length running on 11 threads.' was performed in 1.44 seconds.
+2022-12-07 22:18:31.382 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 92 items, 6 vias and 683,651.98 trace length running on 11 threads.' was performed in 1.04 seconds.
+2022-12-07 22:18:32.339 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 92 items, 2 vias and 670,502.73 trace length running on 11 threads.' was performed in 0.95 seconds.
+2022-12-07 22:18:33.292 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #4 with 90 items, 2 vias and 670,502.73 trace length running on 11 threads.' was performed in 0.95 seconds.
+2022-12-07 22:18:33.294 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 4.39 seconds.
+2022-12-07 22:18:33.295 [Thread-0] INFO  Route optimization was completed in 4.39 seconds and it improved the design by ~50.99%.
+2022-12-07 22:18:33.307 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 5.94 seconds.
+2022-12-07 22:18:33.308 [Thread-0] INFO  Saving 'C:\Users\Envy\Documents\GitHub\Env-H88-KA-COM\LedBar PCB\freerouting.ses'...
+2022-12-07 22:19:48.601 [main] INFO  Freerouting v1.6.2 (build-date: 2022-07-13)
+2022-12-07 22:19:48.612 [main] INFO  Opening 'C:/Users/Envy/Documents/GitHub/Env-H88-KA-COM/LedBar PCB\freerouting.dsn'...
+2022-12-07 22:19:49.584 [main] INFO  Opening 'freerouting.rules'...
+2022-12-07 22:19:49.584 [main] ERROR File 'freerouting.rules' was not found.
+2022-12-07 22:19:49.642 [Thread-0] INFO  Starting auto-routing...
+2022-12-07 22:19:49.642 [main] TRACE Method 'MainApplication.main()' was performed in 1.11 seconds.
+2022-12-07 22:19:50.450 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #1 on board 'c4fd1c78d2e26ab5f5fc8c9c18625370' making 245 changes' was performed in 0.69 seconds.
+2022-12-07 22:19:50.486 [Thread-0] TRACE Method 'BatchAutorouter.autoroute_pass #2 on board 'ba8c8d4fe712b7ba626eb4097ddf918e' making 0 changes' was performed in 0.01 seconds.
+2022-12-07 22:19:50.487 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-autorouting' was performed in 0.84 seconds.
+2022-12-07 22:19:50.487 [Thread-0] INFO  Auto-routing was completed in 0.84 seconds.
+2022-12-07 22:19:50.488 [Thread-0] INFO  Starting route optimization on 11 threads...
+2022-12-07 22:19:51.524 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #1 with 0 items, 4 vias and 679,408.72 trace length running on 11 threads.' was performed in 1.03 seconds.
+2022-12-07 22:19:52.282 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #2 with 82 items, 4 vias and 679,408.72 trace length running on 11 threads.' was performed in 0.76 seconds.
+2022-12-07 22:19:53.047 [Thread-0] TRACE Method 'BatchOptRouteMT.opt_route_pass #3 with 82 items, 2 vias and 678,740.44 trace length running on 11 threads.' was performed in 0.76 seconds.
+2022-12-07 22:19:53.048 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()-routeoptimization' was performed in 2.56 seconds.
+2022-12-07 22:19:53.049 [Thread-0] INFO  Route optimization was completed in 2.56 seconds and it improved the design by ~50.05%.
+2022-12-07 22:19:53.058 [Thread-0] TRACE Method 'BatchAutorouterThread.thread_action()' was performed in 3.42 seconds.
+2022-12-07 22:19:53.059 [Thread-0] INFO  Saving 'C:/Users/Envy/Documents/GitHub/Env-H88-KA-COM/LedBar PCB\freerouting.ses'...
